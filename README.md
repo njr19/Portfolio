@@ -3,7 +3,7 @@
 This is my **personal portfolio website** built with **HTML, CSS, and JavaScript** to showcase my skills, projects, education, and achievements.  
 The portfolio is fully responsive and hosted on **Vercel**.
 
-🔗 **Live Demo:** [Click Here](https://portfolio.nithinjr.software)
+🔗 **Live Demo:** [Click Here](https://portfolio-nithinjr.vercel.app/)
 
 ---
 
@@ -32,8 +32,8 @@ The portfolio is fully responsive and hosted on **Vercel**.
 ## 📬 Contact
 - **Name:** Nithin J R  
 - **Email:** [nithinjr125@gmail.com](mailto:nithinjr125@gmail.com)  
-- **LinkedIn:** (https://www.linkedin.com/in/nithin-jr-19p2004)  
-- **GitHub:** (https://github.com/njr19)
+- **LinkedIn:** [Click Here](https://www.linkedin.com/in/nithin-jr-19p2004)  
+- **GitHub:** [Click Here](https://github.com/njr19)
 
 ---
 ⭐ If you like this project, don’t forget to **star the repo**!
