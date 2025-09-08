@@ -25,7 +25,8 @@ The portfolio is fully responsive and hosted on **Vercel**.
 ---
 
 ## 📸 Screenshots  
-  
+  <img width="1778" height="897" alt="Screenshot 2025-09-08 154548" src="https://github.com/user-attachments/assets/262343d0-8782-47bb-b9b4-dab549a88cf0" />
+
 
 ---
 
