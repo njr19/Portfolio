@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const yearElement = document.querySelector('.footer-bottom p');
     if (yearElement) {
         const currentYear = new Date().getFullYear();
-        yearElement.innerHTML = `&copy; ${currentYear} Naveen L D. All rights reserved.`;
+        yearElement.innerHTML = `&copy; ${currentYear} Nithin J R. All rights reserved.`;
     }
 });
 
